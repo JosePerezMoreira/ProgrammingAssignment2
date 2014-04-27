@@ -103,3 +103,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### Solved assignment
+
+This version contains the solved programming assignment. I hope my peers enjoy the lecture of my solution. 
